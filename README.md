@@ -41,5 +41,5 @@
 
 ### 📫 Contact
 
-📧 **derasosialy@gmail.com**    
-📱 +261 34 17 172 42**  
+📧 derasosialy@gmail.com    
+📱 +261 34 17 172 42 
