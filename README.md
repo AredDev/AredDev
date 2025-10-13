@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hey, moi c’est **Andriamidera Mandefimanantsoa**
 
-<!--
-**AredDev/AredDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur passionné par le **web**, le **mobile** et l’**UI design**.  
+🚀 J’aime créer des interfaces modernes, performantes et accessibles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Mon Portfolio
+👉 [profilemanantsoa.netlify.app](https://profilemanantsoa.netlify.app)
+
+---
+
+### 🧠 Langages & Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-FF6F00?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobe-xd&logoColor=FF61F6)
+
+---
+
+### 📊 Mes Statistiques GitHub
+
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AredDev&show_icons=true&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=AredDev&layout=compact&theme=radical)
+
+---
+
+### 🏆 Objectif
+
+> “Créer des expériences numériques modernes et accessibles à tous.”
+
+---
+
+### 📫 Contact
+
+📧 **derasosialy@gmail.com**    
+📱 +261 34 17 172 42**  
