@@ -6,7 +6,7 @@
 ---
 
 ### 🌐 Mon Portfolio
-👉 [profilemanantsoa.netlify.app](https://profilemanantsoa.netlify.app)
+👉 [profilemanantsoa.netlify.app](https://portfoliodera.vercel.app)
 
 ---
 
@@ -30,12 +30,6 @@
 
 ---
 
-### 📊 Mes Statistiques GitHub
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=AredDev&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=AredDev&layout=compact&theme=radical)
-
----
 
 ### 🏆 Objectif
 
