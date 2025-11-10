@@ -6,7 +6,7 @@
 ---
 
 ### 🌐 Mon Portfolio
-👉 [profilemanantsoa.netlify.app](https://portfoliodera.vercel.app)
+👉 [portfoliodera.vercel.app](https://portfoliodera.vercel.app)
 
 ---
 
